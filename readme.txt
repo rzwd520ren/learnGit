@@ -7,4 +7,4 @@ Git test4
 
 git checkout test
 
-create this in new branch dev
+write this in branch dev
